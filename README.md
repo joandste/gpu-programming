@@ -3,7 +3,7 @@
 
 ## Requirements
 
-This project Clojure and at some point will also need opencl
+This project requires Clojure and at some point will also need opencl
 
 ## Setup
 
